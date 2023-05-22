@@ -11,7 +11,7 @@ export interface NightwatchAssertionsError {
 
 export interface NightwatchCommonAssertions<ReturnType> {
 	/**
-	 * Checks if the given attribute of an element contains the expected value.
+	 * Checks if the given attribute of an element contains the expected value
 	 *
 	 * ```
 	 *    this.demoTest = function (client) {
