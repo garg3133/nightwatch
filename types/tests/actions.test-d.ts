@@ -2,7 +2,7 @@ import { expectError, expectType } from 'tsd';
 import { Awaitable, NightwatchAPI } from '..';
 import { WebElement } from 'selenium-webdriver';
 
-// Expect test for language chains
+// Expect test for language chain
 
 it('actions.press', () => {
   browser.perform(() => {
